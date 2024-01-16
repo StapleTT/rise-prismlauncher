@@ -10,9 +10,9 @@
 ## Downloading Java
 You will need Java 8 installed for Rise to launch. If you already have Java 8 installed, you can skip this step.
 
-If you are on an Intel based Mac, download Java from here: https://www.azul.com/core-post-download/?endpoint=zulu&uuid=3b12ba9a-f2d7-4a36-b8e9-0ce2b0f4586b
+If you are on Windows, download Java from here: https://www.azul.com/core-post-download/?endpoint=zulu&uuid=859ba1f1-aa69-42fb-9fbc-a1225d240e89
 
-If you are on an Apple Silicon Mac, download Java from here: https://www.azul.com/core-post-download/?endpoint=zulu&uuid=e4f11bd7-0b00-459f-9a44-2a5d6e76481b
+If you are on Linux, follow the guide at https://prismlauncher.org/wiki/getting-started/installing-java/
 
 After the installation, your launcher's Java window will look something like this: ![alt text](/images/javapage.png)
 

@@ -1,5 +1,5 @@
 # How to Install Rise on MultiMC/Prism Launcher
-**Note:** This guide only works on Windows and Linux. macOS doesn't work because they have poor OpenGL support.
+**Note:** This guide only works on Windows and Linux. macOS doesn't work because they have poor OpenGL support. If you have any issues, do not contact Rise support. They do not support third party launchers.
 
 **This guide requires you to have one of the following Minecraft launchers installed:**
 - MultiMC

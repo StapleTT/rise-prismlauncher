@@ -34,4 +34,4 @@ Go to the Settings tab. Here, there will be a box where you can enter the correc
 Enter `-noverify` in the box and click "Close" on the bottom right corner. ![alt text](/images/java-args.png)
 
 ## I've done everything right. Now what?
-At this point, you should be able to launch Rise without any issues. Since the developers of Rise do not officially support Prism Launcher, send me a message on Discord (09ix) if you have any issues. ![alt text](/images/rise.png)
+At this point, you should be able to launch Rise without any issues. Since the developers of Rise do not officially support Prism Launcher, send me a message on Discord (@staplett) if you have any issues. ![alt text](/images/rise.png)
